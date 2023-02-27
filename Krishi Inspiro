@@ -1,0 +1,231 @@
+Effluent purification by accelerated Protein
+Biosynthesis using recombination of algae *
+
+*
+
+1
+st Ashish Srinivas
+6 sem ECE Department
+NIE
+Mysuru
+
+
+Abstract—Bio filtration is a process by which industrial ef-
+fluents are treated by means of bio organics.Spirulina is a
+
+blue green alga (cyano-bacteria) encapsulated with Chlorella,
+Botryococcus braunii, Microactinium sp peforms a process of
+
+‘Protein Biosynthesis’, which converts all the hazardous ni-
+trates, phosphates,zinc,cadmium, antimony and chromium into
+
+desirable proteins and purifies water. Besides this it follows
+circular economy approach by replenishing vital ecosystem whilst
+preserving cost.
+
+I. INTRODUCTION
+
+A. Problem Statement
+Effluents are nutrient enriched chemicals that are undesired
+and discharged by industries.Impact of effluent on agricultural
+soil, is mainly due to the presence of high nutrient contents
+(Nitrogen and Phosphorus), high total dissolved solids and
+other constituents such as heavy metals, which are added to
+the soil over time. Wastewater can also contain salts that may
+accumulate in the root zone with possible harmful impacts on
+soil health and crop yields.
+This secondary effluent is, however, loaded with inorganic
+nitrogen and phosphorus and causes eutrophication and more
+long-term problems because of refractory organics and heavy
+metals that are discharged.
+B. Principle
+
+Protein biosynthesis (or protein synthesis) is a core bi-
+ological process, occurring inside cells, balancing the loss
+
+of cellular proteins (via degradation or export) through the
+production of new proteins.
+Wastewater environment is an ideal media for a wide range of
+microorganisms specially bacteria, viruses and protozoa.
+
+Bio-treatment with microalgae is particularly attractive be-
+cause of their photosynthetic capabilities, converting solar
+
+energy into useful bio masses and incorporating nutrients such
+as nitrogen and phosphorus causing eutrophication (De la
+Noue and De Pauw, 1988).  ̈
+Identify applicable funding agency here. If none, delete this.
+
+II. COMPOSITION OF TYPICAL WASTEWATER
+The composition of wastewater is a reflection of the life
+styles and technologies practiced in the producing society
+(Gray, 1989). It is a complex mixture of natural organic
+and inorganic materials as well as man-made compounds.
+Three quarters of organic carbon in sewage are present as
+carbohydrates, fats, proteins, amino acids, and volatile acids.
+The inorganic constituents include large concentrations of
+sodium, calcium, potassium, magnesium, chlorine, sulphur,
+phosphate, bicarbonate, ammonium salts and heavy metals
+III. CONVENTIONAL WASTE WATER TREATMENT
+
+In wastewater treatment systems designed to remove nu-
+trients, mainly dissolved nitrogen and phosphorus, is be-
+coming an important step of treatment. Discharge of these
+
+nutrients into sensitive water bodies leads to eutrophication
+by stimulating the growth of unwanted plants such as algae
+and aquatic macrophytes. Other consequences of nitrogen
+compounds in wastewater effluents are toxicity of non-ionized
+ammonia to fish and other aquatic organisms, interference
+with disinfection where a free chlorine residual is required
+and methemoglobinemia in influents due to excessive nitrate
+concentrations (above 45 g/m3) in drinking water.
+A. Purification by combination of algae
+Micro algae are known to sequester heavy metals (Rai
+et al., 1981). Discharge of toxic pollutants to waste water
+collection systems has increased concurrently with society’s
+progressive industrialization.
+Significant concentrations of heavy metals and toxic organic
+compounds have been measured in municipal wastewater.
+Consequently, the ability of wastewater treatment systems to
+tolerate and remove toxicity is of considerable importance.
+
+Microalgae are efficient absorbers of heavy metals. Bioaccu-
+mulation of metals by algae may create a feasible method for
+
+remediating wastewater contaminated with metals.
+This can be dependent on the alga, the metal ion species, the
+solution conditions and whether the algal cells are living or
+nonliving. In living algal cells trace nutrient metals (such as
+
+Fig. 1. Rate of treatment
+
+Co, Mo, Ca, Mg, Cu, Zn, Cr, Pb and Se) are accumulated
+intracellularly by active biological transport
+Field test shows that Micro Actinum sp absorbs 100% of lead
+from 1.0 ppm solution with 20 h at 23°C and about 90% after
+only 1.5 h at 30 °C.
+
+IV. PROOF OF CONCEPT
+
+Microalgal cultures offer an elegant solution to tertiary
+and quaternary treatments due to the ability of microalgae
+to use inorganic nitrogen and phosphorous for their growth
+studied the ability of the combination of algae in nutrients
+removal and reported a nutrient removal efficiency of 86% for
+inorganic N and 78% for inorganic P. In earlier study, Colak
+and Kaya (1988) reported an elimination of nitrogen (50.2
+%) and phosphorus (85.7%) in industrial wastewater treatment
+and elimination of phosphorus (97.8%) in domestic wastewater
+treated by algae. The rate of bio absortion is implemented
+using degradation rate equation:
+dP
+dt
+= ksR(t) − kdP(t) (1)
+
+Where:
+P is predictive estimation
+kd is co efficient of degradation
+R is degradation rate
+The following table indicates the rate degradation of
+chemical oxygen demand of collective use of alage:
+
+COD Results
+Algae COD
+before
+COD
+after
+pH
+Spirulina sp 350 175 7.3
+Chlorellas 270 113.5 7.3
+Botryococcus
+b
+
+312 182 7.5
+
+Microactinium
+sp
+
+270 125 7.3
+
+V. VERIFICATION BY PROTOTYPE
+Based on created the model of an aerobic tank which I
+created to simualate the conditions, it consists of industrial
+effluents whose volume and temperature are monitored and
+regulated by a microprocessor. Spirulina sp a blue green algae
+(cyano-bacteria) present in the aerobic tank does all the magic
+by ’Protein Biosynthesis’, which converts all the hazardous
+
+Fig. 2. Protoype setup
+
+Fig. 3. Rate Comparison
+
+nitrates, phosphates(NO3, PO4) into desirable proteins and
+thus purifies water.
+A. Procedure
+The prototype consists of an aerobic tank which constitutes
+of industrial effluents whose volume, pH and temperature are
+monitored and regulated by a microprocessor.
+1.Once the primary tank has reached its capacity, spirulina is
+added and the tank undergoes aeration to initiate the process
+of protein biosynthesis.
+2.After a stipulated time all the impurities are absorbed by the
+algae by biosorption and settle at the bottom of the tank.
+3.The clean water is then passed through a filter into the
+secondary tank which ready for usage.
+
+4. After treating the spirulina residue it is used as proteina-
+ceous fertilizer to the soil.
+
+B. Results
+Algae can be used in wastewater treatment for a range of
+purposes, including:
+1.Reduction of BOD and COD
+2.Removal of N and/or P,
+3.Inhibition of coliforms,
+4.Removal of heavy metals
+This is verified by the data obtained with combination and
+without combination of algae using control mechanisms in
+figure 3.
+
+CONCLUSION
+
+Sustainable purification is a vision that has a variety of
+capacities across the industry have been contributing to
+notable benefits which are:
+1.Conserving the environment and preventing pollution by
+adopting sustainable practices, farmers will reduce their
+
+reliance on nonrenewable energy, reduce chemical use and
+save scarce resources.
+2.Through this method we can purify using recombination of
+complimentary algae.
+
+ACKNOWLEDGMENT
+
+The team thank the department of the plant cell biotech-
+nology (PCBT), CSIR-CFTRI, Mysuru for providing spirulina
+
+culture (CFR/SP6) culture and providing resources.
+
+REFERENCES
+
+[1] Abdel-Raouf, N., Ibraheem, I.B.M., Hammouda, O., 2003. Eutrophica-
+tion of River Nile as indicator of pollution. In: Al-Azhar Bull. of Sci.,
+
+Proceeding of 5th Int. Sci. Conf. 25–27 March 2003, pp. 293–306.
+[2] P.D. Abel Water pollution biology, Ellis Horwood Series in Wastewater
+Technology, Ellis Horwood Ltd., John Wiley and Sons, Chichester
+(1989)
+[3] Y. Liu, Q. Cao, F. Luo, J. Chen Biosorption of Cd2+, Cu2+, Ni2+ and
+Zn2+ ions from aqueous solutions by pretreated biomass of brown algae
+[4] S. Lim, W. Chu, S. Phang Use of Chlorella vulgaris for bioremediation
+of textile wastewater J. Bioresour. Technol., 101 (2010), pp. 7314-7322
+[5] E.P. Lincolin, J.F.K. Earle Wastewater treatment with microalgae I.
+Akatsuka (Ed.), Introduction to Applied Phycology, SPB Academic
+Publishing by The Hague, The Netherlands (1990), pp. 429-446
+[6] N Abdel Raouf, Al Homaidan, I B M Ibraheem ,Micro algae and waste
+water treatment,pp. 2-10
+
+[7] M. Young, The Technical Writer’s Handbook. Mill Valley, CA: Univer-
+sity Science, 1989.
